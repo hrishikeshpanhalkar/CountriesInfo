@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountriesInfo</string>
+    <string name="india">India</string>
+    <string name="delhi">Delhi</string>
+    <string name="region">Region</string>
+    <string name="subregion">Subregion</string>
+    <string name="population">Population</string>
+    <string name="languages">Languages</string>
+    <string name="borders">Borders</string>
+    <string name="asian_countries">Asian Countries</string>
+</resources>
